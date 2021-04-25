@@ -19,7 +19,8 @@
 	<colorDescriccion>d4c99e</colorDescriccion>
 	<!-- COLORES NUEVOS: UI TITULO Y DEVELOPER ,AGREGAR EN EL THEME CON FFFFFF X DEFECTO -->
 	<UIcolortitulo>ed1b2e</UIcolortitulo>
-	<fondoMenu>282828A6</fondoMenu>
+	<fondoMenu>282828FF</fondoMenu>
+	<ImagenFondoMenu>./_arte/1026.png</ImagenFondoMenu>
 	<colorDeveloper>ff322e</colorDeveloper>
 	<baseColorMenu>808000</baseColorMenu>
   </variables>

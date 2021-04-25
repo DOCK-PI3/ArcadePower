@@ -37,6 +37,7 @@ Opaque                                         Translucide                      
 	<colorDescriccion>ffffff</colorDescriccion> <!-- Añadir variable en la vista de detalle, md_description, color  -->
     <UIcolortitulo>ffffff</UIcolortitulo>
 	<fondoMenu>333333</fondoMenu>
+	<ImagenFondoMenu>./_arte/1030.png</ImagenFondoMenu>
 	<colorDeveloper>ffffff</colorDeveloper>
 	<players_ruta>./_arte/imgs/bg_personajes/</players_ruta>
 	<systemViewName>Vistas para el Sistema</systemViewName>
@@ -115,8 +116,8 @@ Opaque                                         Translucide                      
     </menuTextSmall>
     <menuBackground name="menubg">
       <color>${fondoMenu}</color>
-      <cornerSize></cornerSize>
-      <!-- <path>./_arte/imgs/MENU-START-BACKGROUND.png</path> -->
+     <!--  <cornerSize>0</cornerSize> -->
+      <path>${ImagenFondoMenu}</path>
     </menuBackground>
     <menuTextEdit name="menutextedit">
 	  <inactive>./_arte/textinput_ninepatch.png</inactive>

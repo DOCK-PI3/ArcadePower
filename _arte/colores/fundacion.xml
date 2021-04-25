@@ -20,6 +20,7 @@
 	<!-- COLORES NUEVOS: UI TITULO Y DEVELOPER ,AGREGAR EN EL THEME CON FFFFFF X DEFECTO -->
 	<UIcolortitulo>ed1b2e</UIcolortitulo>
 	<fondoMenu>7f7fffA6</fondoMenu>
+	<ImagenFondoMenu>./_arte/1099.png</ImagenFondoMenu>
 	<colorDeveloper>ff322e</colorDeveloper>
 	<baseColorMenu>000000A6</baseColorMenu>
   </variables>
