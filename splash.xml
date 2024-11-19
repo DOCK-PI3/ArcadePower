@@ -41,7 +41,7 @@ originally based on: "Carbon" by Eric Hettervik (Rookervik)
       <size>1 1</size>
 	  <pos>0 0</pos>
       <origin>0 0</origin>
-	  <path>./_arte/imgs/bg.jpg</path>
+	  <path>./_arte/imgs/bg2.jpg</path>
     </image>
 
     <image name="logoBatocera" extra="true">
